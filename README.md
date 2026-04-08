@@ -1,6 +1,6 @@
-# Laravel 12 SaaS Application
+# Laravel 12 Role Based Application
 
-A complete Laravel 12 SaaS application with multi-tenancy, role-based access control (RBAC), and authentication built-in.
+A complete Laravel 12 role based application with multi-tenancy, role-based access control (RBAC), and authentication built-in.
 
 ## Features
 
